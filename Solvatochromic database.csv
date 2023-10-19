@@ -1,0 +1,176 @@
+HBA,HBD,HBA ratio,HBD ratio,Alpha,Bita,pi*,Solvent
+[Bmim],[SbF6] ,1,1,0.639,0.146,1.039,Ionic Liquid
+[Bmim],[Cl],1,1,0.47,0.87,1.1,Ionic Liquid
+[Bmim],[BF4],1,1,0.627,0.376,1.047,Ionic Liquid
+[Bmim],Acetate,1,1,0.43,1.05,0.96,Ionic Liquid
+[Bmim],[PF6],1,1,0.634,0.207,1.032,Ionic Liquid
+[Bmim],[TfO],1,1,0.625,0.464,1.006,Ionic Liquid
+[Bmim] ,N(CN)2 ,1,1,0.54,0.71,1.05,Ionic Liquid
+[Bmim],[N(Tf)2],1,1,0.617,0.243,0.984,Ionic Liquid
+[Bmim],[O2CEt] ,1,1,0.48,1.1,0.94,Ionic Liquid
+[Bm2im],[BF4],1,1,0.402,0.363,1.083,Ionic Liquid
+[Bmim],Glycolic Acid,1,1,0.44,0.87,1.12,Ionic Liquid
+[Bmpy],[N(Tf)2],1,1,0.427,0.252,0.954,Ionic Liquid
+[Bm2im],[N(Tf)2],1,1,0.381,0.239,1.01,Ionic Liquid
+[Bmim],[H-maleate],1,1,0.32,0.62,1.08,Ionic Liquid
+[Emim],[PF6],1,1,0.66,0.2,0.99,Ionic Liquid
+[Emim],[NTf2],1,1,0.76,0.28,0.9,Ionic Liquid
+[Emim],N(CN)2,1,1,0.53,0.35,1.08,Ionic Liquid
+[Emim],[BF4],1,1,0.7,0.26,1.03,Ionic Liquid
+[Emim],[ClO4],1,1,0.56,0.41,1.11,Ionic Liquid
+[Emim],Dicyanamide,1,1,0.53,0.35,1.08,Ionic Liquid
+[Emim],Ethanoate,1,1,0.4,0.95,1.09,Ionic Liquid
+[Emim],[NO3],1,1,0.48,0.66,1.13,Ionic Liquid
+[Emim],Acetate,1,1,0.4,0.95,1.09,Ionic Liquid
+[Emim],[HexOSO3],1,1,0.65,0.71,0.98,Ionic Liquid
+[Emim],[OctOSO3],1,1,0.65,0.77,0.93,Ionic Liquid
+[C8mim],[NTf2],1,1,0.97,0.28,0.97,Ionic Liquid
+[C6mim],[NTf2],1,1,0.65,0.25,0.98,Ionic Liquid
+[C4mim],[NTf2],1,1,0.62,0.24,0.98,Ionic Liquid
+[C4mim],[OTf],1,1,0.63,0.46,1.01,Ionic Liquid
+[C1C1im],[NTf2],1,1,0.82,0.203,0.967,Ionic Liquid
+[C3C1im],[NTf2],1,1,0.78,0.23,0.96,Ionic Liquid
+[C4C1im],[NTf2],1,1,0.69,0.27,0.94,Ionic Liquid
+[C5C1im],[NTf2],1,1,0.64,0.26,0.95,Ionic Liquid
+[C6C1im],[NTf2],1,1,0.64,0.27,0.95,Ionic Liquid
+[C7C1im],[NTf2],1,1,0.65,0.28,0.94,Ionic Liquid
+[C8C1im],[NTf2],1,1,0.64,0.28,0.94,Ionic Liquid
+[C9C1im],[NTf2],1,1,0.63,0.27,0.94,Ionic Liquid
+[C5C5im],[NTf2],1,1,0.56,0.32,0.94,Ionic Liquid
+[C6C6im],[NTf2],1,1,0.57,0.33,0.93,Ionic Liquid
+[C7C7im],[NTf2],1,1,0.57,0.32,0.93,Ionic Liquid
+[C3-3-C1py],[NTf2],1,1,0.51,0.26,0.98,Ionic Liquid
+[C4C1pyrr],[NTf2],1,1,0.47,0.27,0.94,Ionic Liquid
+[C4C1pip],[NTf2],1,1,0.44,0.26,0.94,Ionic Liquid
+[S222],[NTf2],1,1,0.51,0.18,0.95,Ionic Liquid
+[N4111],[NTf2],1,1,0.58,0.27,0.91,Ionic Liquid
+"[P666,14]",[NTf2],1,1,0.24,0.46,0.86,Ionic Liquid
+[HOEmim],[PF6],1,1,1.17,0.15,1.11,Ionic Liquid
+[HOEmim],[NTf2],1,1,1.17,0.34,1.03,Ionic Liquid
+[HOEmim],[ClO4],1,1,1.06,0.16,1.13,Ionic Liquid
+[HOEmim],Dicyanamide,1,1,0.8,0.51,1.11,Ionic Liquid
+[HOEmim],[NO3],1,1,0.77,0.65,1.11,Ionic Liquid
+[HOEmim],[Cl],1,1,0.73,0.68,1.16,Ionic Liquid
+[HOEmim],Acetate,1,1,0.53,0.9,1.04,Ionic Liquid
+[Hmim],[NTf2],1,1,0.65,0.25,0.98,Ionic Liquid
+[Hmim],[OTf],1,1,0.67,0.52,0.98,Ionic Liquid
+[Hmim],[PF6] ,1,1,0.57,0.58,1.02,Ionic Liquid
+[3-MBP],[BF4],1,1,0.56,0.423,1.071,Ionic Liquid
+[4-MBP],[BF4],1,1,0.53,0.533,1.066,Ionic Liquid
+[Choline],Levulinic acid,1,1,1.07,1.03,1,Ionic Liquid
+[Choline],Malonic Acid,1,1,1.55,0.62,1.04,Ionic Liquid
+[Choline],Glycolic Acid,1,1,1.29,0.79,1.08,Ionic Liquid
+Acetonitrile,Acetonitrile,1,1,0.35,0.37,0.799,Normal
+Acetone,Acetone,1,1,0.202,0.539,0.704,Normal
+Dichloromethane,Dichloromethane,1,1,0.04,0.578,0.733,Normal
+Toluene,Toluene,1,1,-0.213,0.077,0.532,Normal
+1-Propanol,1-Propanol,1,1,0.78,0.9,0.52,Normal
+2-proponal,2-proponal,1,1,0.76,0.84,0.48,Normal
+1-Butanol,1-Butanol,1,1,0.79,0.84,0.47,Normal
+t-Butanol,t-Butanol,1,1,0.68,0.93,0.41,Normal
+"1,1,2,2-Tetrachloroethane","1,1,2,2-Tetrachloroethane",1,1,0,0,0.95,Normal
+Nitrobenzene,Nitrobenzene,1,1,0,0.3,1.01,Normal
+"1,1,1-Trichloroethane","1,1,1-Trichloroethane",1,1,0,0,0.49,Normal
+Benzene,Benzene,1,1,0,0.1,0.59,Normal
+Acetophenone,Acetophenone,1,1,0.04,0.49,0.9,Normal
+Toluene,Toluene,1,1,0,0.11,0.54,Normal
+Chloroform,Chloroform,1,1,0.2,0.1,0.58,Normal
+"1,4-dioxane","1,4-dioxane",1,1,0,0.37,0.55,Normal
+Cyclohexanone,Cyclohexanone,1,1,0,0.53,0.76,Normal
+DMSO,DMSO,1,1,0,0.76,1,Normal
+Ethyl Acetate,Ethyl Acetate,1,1,0,0.45,0.55,Normal
+Tetrahydrofuran,Tetrahydrofuran,1,1,0,0.55,0.58,Normal
+                  Ethanol ,Ethanol ,1,1,0.83,0.75,0.51,Normal
+                 Methanol,Methanol,1,1,1.03,0.578,0.771,Normal
+Water,Water,1,1,1.23,0.49,1.14,Normal
+Butanoic Acid,Butanoic Acid,1,1,1.06,0.22,0.47,Normal
+Hexanoic Acid,Hexanoic Acid,1,1,1.05,0.21,0.43,Normal
+Octanoic Acid,Octanoic Acid,1,1,0.94,0.023,0.38,Normal
+DMF,DMF,1,1,0,0.7,0.9,Normal
+DMAc,DMAc,1,1,0,0.8,0.9,Normal
+Cyclohexane,Cyclohexane,1,1,0,0.6,0.7,Normal
+NMP,NMP,1,1,0,0.7,0.9,Normal
+Pyridine,Pyridine,1,1,0,0.7,0.9,Normal
+Cyclopentanone,Cyclopentanone,1,1,0,0.6,0.7,Normal
+Isopropyl Acetate,Isopropyl Acetate,1,1,0,0.4,0.5,Normal
+Methyl Acetate,Methyl Acetate,1,1,0,0.4,0.5,Normal
+Gamma-Valerolactone,Gamma-Valerolactone,1,1,0,0.6,0.9,Normal
+Gamma-Butyrolactone,Gamma-Butyrolactone,1,1,0,0.5,0.9,Normal
+Diethyl Ether,Diethyl Ether,1,1,0,0.5,0.2,Normal
+[Choline][Cl],Aspirin,1,1,0.26,0.55,1.1,Deep eutectic
+[Choline][Cl],Water,1,1,0.93,0.44,0.71,Deep eutectic
+[Choline][Cl],Water,1,2,0.94,0.41,0.72,Deep eutectic
+[Choline][Cl],Water,1,3,0.96,0.39,0.73,Deep eutectic
+[Choline][Cl],Water,1,4,0.84,0.36,0.75,Deep eutectic
+[N2222][Cl],Butanoic Acid,1,2,0.99,0.76,0.92,Deep eutectic
+[N2222][Cl],Hexanoic Acid,1,2,0.97,0.85,0.86,Deep eutectic
+[N2222][Cl],Octanoic Acid,1,2,0.96,0.87,0.81,Deep eutectic
+[N3333][Cl],Butanoic Acid,1,2,0.94,0.84,0.93,Deep eutectic
+[N3333][Cl],Hexanoic Acid,1,2,0.91,0.92,0.85,Deep eutectic
+[N3333][Cl],Octanoic Acid,1,2,0.9,0.96,0.8,Deep eutectic
+[N4444][Cl],Butanoic Acid,1,2,0.92,0.99,0.86,Deep eutectic
+[N4444][Cl],Hexanoic Acid,1,2,0.9,1.02,0.81,Deep eutectic
+[N4444][Cl],Octanoic Acid,1,2,0.84,1.19,0.8,Deep eutectic
+[N4444][Cl],Decanoic Acid,1,2,0.85,1.28,0.69,Deep eutectic
+[N4444][Cl],Decanoic Acid,1,1,0.91,1.12,0.86,Deep eutectic
+[N3333][Br],Butanoic Acid,1,2,1.07,0.8,0.93,Deep eutectic
+[N3333][Br],Hexanoic Acid,1,2,1.02,0.86,0.87,Deep eutectic
+[N4444][Br],Butanoic Acid,1,2,1.02,0.81,0.93,Deep eutectic
+[N4444][Br],Butanoic Acid,1,1,1.09,0.84,0.9,Deep eutectic
+[N4444][Br],Butanoic Acid,2,1,0.94,0.82,0.95,Deep eutectic
+[N4444][Br],Hexanoic Acid,1,2,1.02,0.93,0.92,Deep eutectic
+[N4444][Br],Octanoic Acid,1,2,0.98,1.09,0.84,Deep eutectic
+[N4444][Br],Decanoic Acid,1,2,0.95,1.05,0.71,Deep eutectic
+[Choline][Cl],Acetic Acid,1,2,0,0.53,1.1,Deep eutectic
+[Choline][Cl],Levulinic acid,1,2,0.51,0.57,1,Deep eutectic
+[Choline][Cl],Malonic Acid,1,1,1.39,0.42,1.08,Deep eutectic
+[Choline][Cl],Glycolic Acid,1,1,0.49,0.5,1.08,Deep eutectic
+[Choline][Cl],Urea,1,2,1.42,0.5,1.14,Deep eutectic
+[Choline][Cl],Ethylene Glycol,1,2,1.47,0.57,1.07,Deep eutectic
+[Choline][Cl],Glycerol,1,2,1.49,0.52,1.11,Deep eutectic
+[Choline][Cl],Butanoic Acid,1,2,0.63,0.15,0.86,Deep eutectic
+[Choline][Cl],Butanoic Acid,1,3,0.62,0.48,0.89,Deep eutectic
+[Choline][Cl],Butanoic Acid,1,4,0.58,0.54,0.85,Deep eutectic
+[Choline][Cl],Pentanoic Acid,1,2,0.76,0.33,0.75,Deep eutectic
+[Choline][Cl],Pentanoic Acid,1,3,0.76,0.49,0.76,Deep eutectic
+[Choline][Cl],Pentanoic Acid,1,4,0.74,0.58,0.78,Deep eutectic
+[Choline][Cl],Octanoic Acid,1,2,1.09,0.85,0.42,Deep eutectic
+[Choline][Cl],Octanoic Acid,1,3,1.19,0.95,0.33,Deep eutectic
+[Choline][Cl],Octanoic Acid,1,4,1.12,0.86,0.42,Deep eutectic
+Ethylene Glycol,Lactic Acid,1,1,1.17,1.43,1.15,Deep eutectic
+Ethylene Glycol,Levulinic acid,1,1,0.95,1.39,1.23,Deep eutectic
+"1,3-Butanediol",Lactic Acid,1,1,0.49,1.17,1.64,Deep eutectic
+"1,3-Butanediol",Levulinic acid,1,1,0.46,1.12,1.57,Deep eutectic
+Acetamide,Lactic Acid,1,2,0.79,1.37,1.7,Deep eutectic
+Acetamide,1-Propanol,1,2,0.63,1.32,1.27,Deep eutectic
+Acetamide,Propylene Glycol,1,1,0.58,1.02,1.48,Deep eutectic
+Lactic Acid,Propylene Glycol,1,1,1.09,1.46,1.15,Deep eutectic
+Lactic Acid,1-Propanol,1,1,0.3,1.24,1.65,Deep eutectic
+Menthol,Acetic Acid,1,1,1.64,0.6,0.53,Deep eutectic
+Menthol,Levulinic acid,1,1,1.56,0.58,0.66,Deep eutectic
+Menthol,Octanoic Acid,1,1,1.77,0.5,0.41,Deep eutectic
+Menthol,Do Decanoic Acid,2,1,1.79,0.57,0.37,Deep eutectic
+[N4444][Cl],Levulinic acid,1,2,0,0.82,1.06,Deep eutectic
+[N4444][Cl],Octanoic Acid,1,2,1.41,0.99,0.76,Deep eutectic
+[N4444][Cl],Decanoic Acid,1,2,1.36,0.97,0.73,Deep eutectic
+[N4444][Cl],Do Decanoic Acid,1,2,1.45,1.04,0.71,Deep eutectic
+[Acetylcholine][Cl],Butanoic Acid,1,2,0.61,0.52,0.94,Deep eutectic
+[Acetylcholine][Cl],Butanoic Acid,1,3,0.62,0.56,0.93,Deep eutectic
+[Acetylcholine][Cl],Butanoic Acid,1,4,0.62,0.36,0.91,Deep eutectic
+[Acetylcholine][Cl],Butanoic Acid,1,5,0.62,0.35,0.91,Deep eutectic
+[Acetylcholine][Cl],Butanoic Acid,1,6,0.62,0.35,0.91,Deep eutectic
+[Acetylcholine][Cl],Pentanoic Acid,1,2,0.69,0.55,0.89,Deep eutectic
+[Acetylcholine][Cl],Pentanoic Acid,1,3,0.71,0.58,0.86,Deep eutectic
+[Acetylcholine][Cl],Pentanoic Acid,1,4,0.71,0.55,0.85,Deep eutectic
+[Acetylcholine][Cl],Pentanoic Acid,1,5,0.72,0.56,0.84,Deep eutectic
+[Acetylcholine][Cl],Pentanoic Acid,1,6,0.73,0.54,0.82,Deep eutectic
+[Acetylcholine][Cl],Hexanoic Acid,1,2,0.86,0.76,0.71,Deep eutectic
+[Acetylcholine][Cl],Hexanoic Acid,1,3,0.85,0.72,0.73,Deep eutectic
+[Acetylcholine][Cl],Hexanoic Acid,1,4,0.85,0.66,0.73,Deep eutectic
+[Acetylcholine][Cl],Hexanoic Acid,1,5,0.87,0.69,0.7,Deep eutectic
+[Acetylcholine][Cl],Hexanoic Acid,1,6,0.87,0.66,0.69,Deep eutectic
+[Acetylcholine][Cl],Octanoic Acid,1,2,0.94,0.79,0.65,Deep eutectic
+[Acetylcholine][Cl],Octanoic Acid,1,3,0.94,0.76,0.64,Deep eutectic
+[Acetylcholine][Cl],Octanoic Acid,1,4,0.94,0.75,0.64,Deep eutectic
+[Acetylcholine][Cl],Octanoic Acid,1,5,0.95,0.74,0.63,Deep eutectic
+[Acetylcholine][Cl],Octanoic Acid,1,6,0.96,0.7,0.62,Deep eutectic
